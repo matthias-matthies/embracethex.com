@@ -15,6 +15,10 @@ Our website address is: http://www.embracethex.com.
 
 The service hosting the this website stores access logs. This data is not accessible to and not readable for the owner of this website. The hosting service, GitHub, has their privacy policy is available here: https://docs.github.com/en/github/site-policy/github-privacy-statement
 
+## Google Fonts
+
+This website uses Google Fonts. The Google Fonts Web API serves the Google Fonts Cascading Style Sheets (CSS) and subsequently the font files specified in the CSS to the users. Such HTTP requests include (1) the IP address used by the respective user to access the Internet, (2) the requested URL on the Google server, and (3) HTTP headers including the user agent describing the website visitors’ Internet browser and operating system versions as well as the referer (i.e. the webpage on which the Google font is to be displayed). Their priacy policy is available here: https://developers.google.com/fonts/faq/privacy
+
 ## Cookies
 
 This website does not use cookies.
