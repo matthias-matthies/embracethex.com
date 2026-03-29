@@ -9,8 +9,6 @@ menu:
 comments: false
 ---
 
-# Imprint
-
 Embrace the X
 
 Kim-Julia Reimers

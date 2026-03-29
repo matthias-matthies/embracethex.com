@@ -9,8 +9,6 @@ menu:
 comments: false
 ---
 
-# Privacy Policy
-
 Our website address is: http://www.embracethex.com.
 
 ## Access logs
